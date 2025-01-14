@@ -8,7 +8,10 @@ I am 27 years old, although I still feel young 🫣
 
 It's been 2 years since I call Brussels _my home_.
 
-I became interested in Front-end because I have had human interaction for too long which was tiring me and I just want to move on being _introverted_ for a while. I have always had a passion about computer and self-learned a lot of things.
+I became interested in Front-end because I have had human interaction for too
+long which was tiring me and I just want to move on being _introverted_ for a
+while. I have always had a passion about computer and self-learned a lot of
+things.
 
 ### Hobbies 🪴
 
