@@ -1,5 +1,5 @@
-# Emilia Bio
+# Intro
 
-## Intro
+## About
 
-This is the first line of the bio from the group project. thank you
+This is the first line for the group project. thank you
