@@ -1,5 +1,5 @@
-# This is Emilia's bio for the project
+# This is Emilia's bio for the group3 project
 
 ## Hello
 
-This is the text for the group project
+This is the text for the group3 project
