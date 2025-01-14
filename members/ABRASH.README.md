@@ -1,6 +1,6 @@
 # ABRASH MOHAMMED
 
-<img src="./img/imgage1.jpg" width="200" heigt="200">
+<img src="./img/mohammed1.jpg" width="200" heigt="200">
 
 ---
 
