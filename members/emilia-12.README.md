@@ -1,5 +1,5 @@
-# This is Emilia's bio for the group3 project
+# Emilia Bio
 
-## Hello
+## Intro
 
-This is the text for the group3 project
+This is the first line of the bio from the group project. thank you
