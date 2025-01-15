@@ -9,7 +9,7 @@
     <p><strong>Nationality: </strong>Syria</p>
     <p><strong>Mother Tongue: </strong>Arabic</p>
     <p><em>"Strive for greatness!"</em></p>
-    <a href="./ABRASH.README.md" style="display: inline-block; margin-top: 10px; padding: 10px 15px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">View Profile</a>
+    <a href="./members/abrash.md" style="display: inline-block; margin-top: 10px; padding: 10px 15px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">View Profile</a>
   </div>
 
   <div style="flex: 1; min-width: 250px; max-width: 300px; margin: 10px; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
