@@ -28,7 +28,8 @@ _“Collaboration is key to success!”_
 
 ## Viktoriia
 
-![Viktoriia](./members/img/vikki.jpeg) **Age:** 31 **Nationality:** Ukrainian  
+![Viktoriia](./members/img/vikki.jpeg) **Age:** 31  
+**Nationality:** Ukrainian  
 **Mother Tongue:** Ukrainian  
 _“Your love in your heart”_
 
@@ -36,11 +37,12 @@ _“Your love in your heart”_
 
 ---
 
-## Collaborator 3
+## Semen
 
-![Collaborator 3](./images/collaborator3-photo.jpg) **Age:** YourAge  
-**Nationality:** YourNationality  
-**Mother Tongue:** YourMotherTongue  
+![Semen](./members/img/semen.jpg)  
+**Age:** 21  
+**Nationality:** Ukrainians  
+**Mother Tongue:** Ukrainian  
 _“Together, we achieve more!”_
 
-[View Profile](./YOUR_FILE_NAME.md)
+[View Profile](./members/semen.md)
