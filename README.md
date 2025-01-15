@@ -17,7 +17,8 @@ _“Strive for greatness!”_
 
 ## Emilia
 
-![Emilia](./members/img/emilia.jpg) **Age:** 27  
+![Emilia](./members/img/emilia.jpg)
+**Age:** 27  
 **Nationality:** Moldavian  
 **Mother Tongue:** Romanian  
 _“Collaboration is key to success!”_
@@ -28,7 +29,9 @@ _“Collaboration is key to success!”_
 
 ## Viktoriia
 
-![Viktoriia](./members/img/vikki.jpeg) **Age:** 31 **Nationality:** Ukrainian  
+![Viktoriia](./members/img/vikki.jpeg)
+**Age:** 31  
+**Nationality:** Ukrainian  
 **Mother Tongue:** Ukrainian  
 _“Your love in your heart”_
 
@@ -38,7 +41,8 @@ _“Your love in your heart”_
 
 ## Semen
 
-![Semen](./members/img/semen.jpg) **Age:** 21  
+![Semen](./members/img/semen.jpg)  
+**Age:** 21  
 **Nationality:** Ukrainians  
 **Mother Tongue:** Ukrainian  
 _“Together, we achieve more!”_
