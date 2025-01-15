@@ -17,8 +17,7 @@ _“Strive for greatness!”_
 
 ## Emilia
 
-![Emilia](./members/img/emilia.jpg)
-**Age:** 27  
+![Emilia](./members/img/emilia.jpg) **Age:** 27  
 **Nationality:** Moldavian  
 **Mother Tongue:** Romanian  
 _“Collaboration is key to success!”_
@@ -29,8 +28,7 @@ _“Collaboration is key to success!”_
 
 ## Viktoriia
 
-![Viktoriia](./members/img/vikki.jpeg)
-**Age:** 31  
+![Viktoriia](./members/img/vikki.jpeg) **Age:** 31  
 **Nationality:** Ukrainian  
 **Mother Tongue:** Ukrainian  
 _“Your love in your heart”_
