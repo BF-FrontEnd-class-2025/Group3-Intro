@@ -26,14 +26,13 @@ _“Collaboration is key to success!”_
 
 ---
 
-## YourName
+## Viktoriia
 
-![YourName](./images/YOUR_IMAGE.jpg) **Age:** YourAge  
-**Nationality:** YourNationality  
-**Mother Tongue:** YourMotherTongue  
-_“Always learning, always growing.”_
+![Viktoriia](./members/img/vikki.jpeg) **Age:** 31 **Nationality:** Ukrainian  
+**Mother Tongue:** Ukrainian  
+_“Your love in your heart”_
 
-[View Profile](./YOUR_FILE_NAME.md)
+[View Profile](./members//viktoriia.md)
 
 ---
 
