@@ -14,29 +14,28 @@ skills.
 
 ## Languages
 
-.Arabic
+- Arabic
 
-.English
+- English
 
-.Dutch
-
-.Turkish
+- Dutch
+- Turkish
 
 ---
 
 ## Skills
 
-### **_Graphic Design_**
+### **Graphic Design**
 
-. Proficient in : _Adobe Photoshop_, _CorelDRAW_
+- Proficient in : _Adobe Photoshop_, _CorelDRAW_
 
 ### Front-End Development
 
-. Learning the basics of :
+- Learning the basics of :
 
 HTML, CSS, JavaScript
 
-.Improving skills in:
+- Improving skills in:
 
 Responsive Design
 
@@ -44,6 +43,6 @@ Git & GitHub
 
 ## Contact
 
-. Email : <abrashmohammed151@gmail.com>
+- Email : <abrashmohammed151@gmail.com>
 
-GitHub : [github.com/Mohammed-ABR](https://github.com/Mohammed-ABR)
+- GitHub : [github.com/Mohammed-ABR](https://github.com/Mohammed-ABR)
