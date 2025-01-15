@@ -42,8 +42,8 @@ _Responsive Design_
 
 _Git & GitHub_
 
-## Contact :
+## Contact
 
-. Email : abrashmohammed151@gmail.com
+. Email : <abrashmohammed151@gmail.com>
 
 GitHub : [github.com/Mohammed-ABR](https://github.com/Mohammed-ABR)
