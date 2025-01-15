@@ -1,48 +1,45 @@
-# (project name)
+# Meet the Team
 
-<!-- describe your project -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-## Getting Started
+  <div style="flex: 1; min-width: 250px; max-width: 300px; margin: 10px; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
+    <img src="./members/img/mohammed2.jpg" alt="MOHAMMED" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #4CAF50;">
+    <h2>Mohammed</h2>
+    <p><strong>Age:</strong> 28</p>
+    <p><strong>Nationality: </strong>Syria</p>
+    <p><strong>Mother Tongue: </strong>Arabic</p>
+    <p><em>"Strive for greatness!"</em></p>
+    <a href="./ABRASH.README.md" style="display: inline-block; margin-top: 10px; padding: 10px 15px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">View Profile</a>
+  </div>
 
-<!-- a guide to using this repository -->
+  <div style="flex: 1; min-width: 250px; max-width: 300px; margin: 10px; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
+    <img src="./images/YOUR_IMAGE.jpg" alt="IMG_DESCRIPTION" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #2196F3;">
+    <h2>YourName</h2>
+    <p><strong>Age: </strong>YourAge</p>
+    <p><strong>Nationality: </strong> YourAge</p>
+    <p><strong>Mother Tongue: </strong>YourMotherTongue</p>
+    <p><em>"Collaboration is key to success!"</em></p>
+    <a href="./YOUR_FILE_NAME.md" style="display: inline-block; margin-top: 10px; padding: 10px 15px; background-color: #2196F3; color: white; text-decoration: none; border-radius: 5px;">View Profile</a>
+  </div>
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+  <div style="flex: 1; min-width: 250px; max-width: 300px; margin: 10px; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
+    <img src="./images/YOUR_IMAGE.jpg" alt="IMG_DESCRIPTION" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #FF9800;">
+    <h2>YourName:</h2>
+    <p><strong>Age:</strong>YourAge</p>
+    <p><strong>Nationality:</strong> YourNationality</p>
+    <p><strong>Mother Tongue:</strong> YourMotherTongue</p>
+    <p><em>"Always learning, always growing."</em></p>
+    <a href="./YOUR_FILE_NAME.md" style="display: inline-block; margin-top: 10px; padding: 10px 15px; background-color: #FF9800; color: white; text-decoration: none; border-radius: 5px;">View Profile</a>
+  </div>
 
-## Code Quality Checks
+  <div style="flex: 1; min-width: 250px; max-width: 300px; margin: 10px; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
+    <img src="./images/collaborator3-photo.jpg" alt="IMG_DESCRIPTION" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #E91E63;">
+    <h2>YourName:</h2>
+    <p><strong>YourAge:</strong> </p>
+    <p><strong>Nationality:</strong> YourNationality</p>
+    <p><strong>Mother Tongue:</strong> YourMotherTongue</p>
+    <p><em>"Together, we achieve more!"</em></p>
+    <a href="./YOUR_FILE_NAME.md" style="display: inline-block; margin-top: 10px; padding: 10px 15px; background-color: #E91E63; color: white; text-decoration: none; border-radius: 5px;">View Profile</a>
+  </div>
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
-
-## Continuous Integration (CI)
-
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Go to _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+</div>
