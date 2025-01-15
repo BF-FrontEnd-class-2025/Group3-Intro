@@ -1,6 +1,6 @@
 # ABRASH MOHAMMED
 
-<img src="./img/mohammed1.jpg" width="200" heigt="200">
+![abrash](./img/mohammed1.jpg)
 
 ---
 
@@ -34,13 +34,13 @@ skills.
 
 . Learning the basics of :
 
-_HTML, CSS, JavaScript_
+HTML, CSS, JavaScript
 
 .Improving skills in:
 
-_Responsive Design_
+Responsive Design
 
-_Git & GitHub_
+Git & GitHub
 
 ## Contact
 
